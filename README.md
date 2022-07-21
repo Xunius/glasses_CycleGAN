@@ -67,13 +67,13 @@ Differences from `model.py`:
 
 These are 2 random outputs from `model.py`, after 10 epochs:
 
-![](./outputs/9_glasses_id_127_noglasses_id_1400.png)
-![](./outputs/9_glasses_id_1815_noglasses_id_1514.png)
+![](./sample_outputs/9_glasses_id_127_noglasses_id_1400.png)
+![](./sample_outputs/9_glasses_id_1815_noglasses_id_1514.png)
 
 These are 2 random outputs from `model2.py`, after 10 epochs:
 
-![](./outputs//9_glasses_id_1097_noglasses_id_1146.png)
-![](./outputs/9_glasses_id_1112_noglasses_id_1172.png)
+![](./sample_outputs/9_glasses_id_1097_noglasses_id_1146.png)
+![](./sample_outputs/9_glasses_id_1112_noglasses_id_1172.png)
 
 In a word, pretty bad.
 
